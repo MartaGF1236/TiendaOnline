@@ -1,4 +1,4 @@
-package com.grupoB.project.DAO;
+package com.grupoB.project.util;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

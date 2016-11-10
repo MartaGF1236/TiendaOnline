@@ -3,6 +3,7 @@ package com.grupoB.project.DAO;
 import java.util.List;
 
 import com.grupoB.project.modelo.*;
+import com.grupoB.project.util.Sesion;
 import com.grupoB.project.DAO.*;
 
 public class ImplCategoriaDAO implements I_DAO<Categoria,Integer> {
