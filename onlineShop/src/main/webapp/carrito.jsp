@@ -9,12 +9,15 @@
 <body>
 <div id="wrapper">
 	<div id="inner">
+       
     <%@ include file="cabecera.jsp"%> <!--Diapositiva 136-138-->
 <!-- / header -->
     <%@ include file="panel_lateral.jsp"%>
 <!--Panel lateral-->
-	<div id="body">
+    
+		<div id="body">
 <div class="inner">
+                <p id="titulo">BIENVENIDO A SU CARRO DE COMPRA</p>
                  <div class="leftbox">
 					<h3>Star Wars Trilogy (Widescreen Edition)</h3>
 					<img src="images/photo_1.jpg" width="93" height="95" alt="photo 1" class="left" />
@@ -51,6 +54,8 @@
 					<p class="readmore"><a href="#">BUY <b>NOW</b></a></p>
 					<div class="clear"></div>
 				</div>
+				
+				<p  id="precio"><strong>PRECIO TOTAL :</strong> 78,90 €  </p>
 <!-- / inner -->
 		</div>
 <!-- / body -->
@@ -61,6 +66,5 @@
 <!-- / inner -->
 </div>
 <!-- / wrapper -->
-    </div>
 </body>
 </html>
