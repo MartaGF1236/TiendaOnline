@@ -1,6 +1,7 @@
 // default package
 // Generated 10-nov-2016 13:42:44 by Hibernate Tools 4.0.0.Final
 package com.grupoB.project.modelo;
+
 import javax.ejb.Stateless;
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
@@ -9,6 +10,7 @@ import org.apache.commons.logging.LogFactory;
 
 /**
  * Home object for domain model class Autor.
+ * 
  * @see .Autor
  * @author Hibernate Tools
  */

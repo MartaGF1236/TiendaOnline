@@ -1,6 +1,7 @@
 // default package
 // Generated 10-nov-2016 13:42:43 by Hibernate Tools 4.0.0.Final
 package com.grupoB.project.modelo;
+
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
