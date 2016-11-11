@@ -49,4 +49,12 @@ public class ImplLibroDAO implements I_DAO<Libro,Integer> {
 		}
 	}
 
+	public Sesion getSesion() {
+		return sesion;
+	}
+
+	public void setSesion(Sesion sesion) {
+		this.sesion = sesion;
+	}
+
 }

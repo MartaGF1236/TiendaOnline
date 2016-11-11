@@ -48,4 +48,12 @@ public class ImplPrecioDAO implements I_DAO<Precio,Integer> {
 			delete(entity);
 		}
 	}
+
+	public Sesion getSesion() {
+		return sesion;
+	}
+
+	public void setSesion(Sesion sesion) {
+		this.sesion = sesion;
+	}
 }

@@ -54,4 +54,12 @@ public class ImplAutorDAO implements I_DAO<Autor,Integer> {
 		}
 	}
 
+	public Sesion getSesion() {
+		return sesion;
+	}
+
+	public void setSesion(Sesion sesion) {
+		this.sesion = sesion;
+	}
+
 }

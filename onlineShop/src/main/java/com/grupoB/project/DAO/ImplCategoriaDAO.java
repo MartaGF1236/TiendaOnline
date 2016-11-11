@@ -50,4 +50,12 @@ public class ImplCategoriaDAO implements I_DAO<Categoria,Integer> {
 		}
 	}
 
+	public Sesion getSesion() {
+		return sesion;
+	}
+
+	public void setSesion(Sesion sesion) {
+		this.sesion = sesion;
+	}
+
 }
