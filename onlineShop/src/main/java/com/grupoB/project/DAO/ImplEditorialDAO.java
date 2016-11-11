@@ -50,4 +50,12 @@ public class ImplEditorialDAO implements I_DAO<Editorial,Integer> {
 		}
 	}
 
+	public Sesion getSesion() {
+		return sesion;
+	}
+
+	public void setSesion(Sesion sesion) {
+		this.sesion = sesion;
+	}
+
 }

@@ -49,4 +49,12 @@ public class ImplPedidoDAO implements I_DAO<Pedido,Integer> {
 		}
 	}
 
+	public Sesion getSesion() {
+		return sesion;
+	}
+
+	public void setSesion(Sesion sesion) {
+		this.sesion = sesion;
+	}
+
 }

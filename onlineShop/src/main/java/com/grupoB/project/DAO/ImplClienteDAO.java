@@ -49,4 +49,12 @@ public class ImplClienteDAO implements I_DAO<Cliente,Integer> {
 		}
 	}
 
+	public Sesion getSesion() {
+		return sesion;
+	}
+
+	public void setSesion(Sesion sesion) {
+		this.sesion = sesion;
+	}
+
 }
