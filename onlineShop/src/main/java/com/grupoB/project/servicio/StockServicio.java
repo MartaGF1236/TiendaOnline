@@ -1,4 +1,4 @@
-package com.grupoB.project.servicios;
+package com.grupoB.project.servicio;
 
 import java.util.List;
 
