@@ -53,6 +53,7 @@ public class AutorServicio
 
 	public void deleteAll() 
 	{
+		System.out.println("hola");
 		autorDao.getSesion().openCurrentSessionwithTransaction();
 		autorDao.deleteAll();
 		autorDao.getSesion().closeCurrentSessionwithTransaction();
