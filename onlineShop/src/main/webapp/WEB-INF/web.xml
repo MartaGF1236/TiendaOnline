@@ -3,8 +3,6 @@
   <display-name>web</display-name>
   <servlet>
   	<servlet-name>FrontServlet</servlet-name>
-  	<display-name>FrontServlet</display-name>
-  	<description></description>
   	<servlet-class>com.grupoB.project.control.FrontServlet</servlet-class>
   </servlet>
   <servlet-mapping>

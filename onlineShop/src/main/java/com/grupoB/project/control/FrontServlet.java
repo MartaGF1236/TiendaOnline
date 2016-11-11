@@ -10,10 +10,13 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+
+//El único servlet de la aplicación es el FrontServlet, que se encarga de recoger 
+//la acción realizada por el usuario y pasar el control al Controller adecuado.
 public class FrontServlet extends HttpServlet 
 {
 	private static final long serialVersionUID = 1L;
-	private Map<String, IController> controllers = new HashMap<String, IController>();
+	private Map<String, IControlador> controllers = new HashMap<String, IControlador>();
        
     
 	//Constructor vacio
