@@ -23,7 +23,7 @@ import javax.persistence.Table;
 
 
 @NamedQueries({
-	   @NamedQuery(name = "Categoria.findAll", query = "SELECT r FROM categoria r")})
+	   @NamedQuery(name = "Categoria.findAll", query = "SELECT r FROM Categoria r")})
 
 
 public class Categoria implements java.io.Serializable {
@@ -71,6 +71,11 @@ public class Categoria implements java.io.Serializable {
 
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
+	}
+
+	@Override
+	public String toString() {
+		return "Categoria [idCategoria=" + idCategoria + ", libro=" + libro + ", nombre=" + nombre + "]";
 	}
 
 }
