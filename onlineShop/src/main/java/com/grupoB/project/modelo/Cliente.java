@@ -242,4 +242,14 @@ public class Cliente implements java.io.Serializable {
 		this.pedidos = pedidos;
 	}
 
+	/*
+	@Override
+	public String toString() {
+		return "Cliente [idCliente=" + idCliente + ", nombre=" + nombre + ", apellido1=" + apellido1 + ", apellido2="
+				+ apellido2 + ", direccion=" + direccion + ", ciudad=" + ciudad + ", provincia=" + provincia + ", pais="
+				+ pais + ", codigoPostal=" + codigoPostal + ", email=" + email + ", telefono1=" + telefono1
+				+ ", telefono2=" + telefono2 + ", password=" + password + ", fechaNacimiento=" + fechaNacimiento
+				+ ", idPedido=" + idPedido + ", administrador=" + administrador + ", pedidos=" + pedidos + "]";
+	}*/
+
 }

@@ -26,6 +26,19 @@ import javax.persistence.TemporalType;
 public class Pedido implements java.io.Serializable {
 
 
+	public Pedido(Integer idPedido, Cliente cliente, Date fechaPedido, Date fechaEntrega, Date horaPedido,
+			Float precioTotal, String formaPago, Set<Libropedido> libropedidos) {
+		super();
+		this.idPedido = idPedido;
+		this.cliente = cliente;
+		this.fechaPedido = fechaPedido;
+		this.fechaEntrega = fechaEntrega;
+		this.horaPedido = horaPedido;
+		this.precioTotal = precioTotal;
+		this.formaPago = formaPago;
+		this.libropedidos = libropedidos;
+	}
+
 	private static final long serialVersionUID = 1L;
 	private Integer idPedido;
 	private Cliente cliente;

@@ -68,4 +68,10 @@ public class Precio implements java.io.Serializable {
 		this.precio = precio;
 	}
 
+	/*
+	@Override
+	public String toString() {
+		return "Precio [idPrecio=" + idPrecio + ", libro=" + libro + ", precio=" + precio + "]";
+	}*/
+
 }

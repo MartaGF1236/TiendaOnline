@@ -80,4 +80,11 @@ public class Libropedido implements java.io.Serializable {
 		this.cantidad = cantidad;
 	}
 
+	/*
+	@Override
+	public String toString() {
+		return "Libropedido [idLibroPedido=" + idLibroPedido + ", libro=" + libro + ", pedido=" + pedido + ", cantidad="
+				+ cantidad + "]";
+	}*/
+
 }

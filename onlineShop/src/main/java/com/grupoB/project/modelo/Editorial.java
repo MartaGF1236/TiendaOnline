@@ -64,4 +64,10 @@ public class Editorial implements java.io.Serializable {
 		this.nombre = nombre;
 	}
 
+	/*
+	@Override
+	public String toString() {
+		return "Editorial [idEditorial=" + idEditorial + ", libro=" + libro + ", nombre=" + nombre + "]";
+	}*/
+
 }

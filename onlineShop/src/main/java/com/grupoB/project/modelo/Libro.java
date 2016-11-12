@@ -184,4 +184,13 @@ public class Libro implements java.io.Serializable {
 		this.precios = precios;
 	}
 
+	/*
+	@Override
+	public String toString() {
+		return "Libro [idLibro=" + idLibro + ", isbn=" + isbn + ", titulo=" + titulo + ", edicion=" + edicion
+				+ ", fechaPublicacion=" + fechaPublicacion + ", descripcion=" + descripcion + ", urlImagen=" + urlImagen
+				+ ", autors=" + autors + ", libropedidos=" + libropedidos + ", stocks=" + stocks + ", editorials="
+				+ editorials + ", categorias=" + categorias + ", precios=" + precios + "]";
+	}*/
+
 }

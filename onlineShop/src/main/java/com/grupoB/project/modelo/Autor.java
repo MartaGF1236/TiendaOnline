@@ -66,4 +66,10 @@ public class Autor implements java.io.Serializable {
 		this.nombre = nombre;
 	}
 
+	/*
+	@Override
+	public String toString() {
+		return "Autor [idAutor=" + idAutor + ", libro=" + libro + ", nombre=" + nombre + "]";
+	}*/
+
 }

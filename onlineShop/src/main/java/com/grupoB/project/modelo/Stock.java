@@ -68,4 +68,10 @@ public class Stock implements java.io.Serializable {
 		this.cantidadStock = cantidadStock;
 	}
 
+	/*
+	@Override
+	public String toString() {
+		return "Stock [idStock=" + idStock + ", libro=" + libro + ", cantidadStock=" + cantidadStock + "]";
+	}*/
+
 }
