@@ -3,52 +3,54 @@ package com.grupoB.project.servicio;
 import java.util.List;
 
 import com.grupoB.project.DAO.ImplLibroPedidoDAO;
-import com.grupoB.project.modelo.LibroPedido;
+import com.grupoB.project.modelo.Libropedido;
+import com.grupoB.project.util.*;
 
-public class LibroPedidoPedidoServicio {
+
+public class LibroPedidoServicio {
 	private static ImplLibroPedidoDAO libroPedidoDao;
 
 	public LibroPedidoServicio() {
 		libroPedidoDao = new ImplLibroPedidoDAO();
 	}
 
-	public void persist(LibroPedido libroPedido) {
-		libroPedidoDao.openCurrentSessionwithTransaction();
+	public void persist(Libropedido libroPedido) {
+		libroPedidoDao.getSesion().openCurrentSessionwithTransaction();
 		libroPedidoDao.persist(libroPedido);
-		libroPedidoDao.closeCurrentSessionwithTransaction();
+		libroPedidoDao.getSesion().closeCurrentSessionwithTransaction();
 	}
 
-	public void update(LibroPedido libroPedido) {
-		libroPedidoDao.openCurrentSessionwithTransaction();
+	public void update(Libropedido libroPedido) {
+		libroPedidoDao.getSesion().openCurrentSessionwithTransaction();
 		libroPedidoDao.update(libroPedido);
-		libroPedidoDao.closeCurrentSessionwithTransaction();
+		libroPedidoDao.getSesion().closeCurrentSessionwithTransaction();
 	}
 
-	public LibroPedido findById(String id) {
-		libroPedidoDao.openCurrentSession();
-		LibroPedido book = libroPedidoDao.findById(id);
-		libroPedidoDao.closeCurrentSession();
+	public Libropedido findById(Integer id) {
+		libroPedidoDao.getSesion().openCurrentSession();
+		Libropedido book = libroPedidoDao.findById(id);
+		libroPedidoDao.getSesion().closeCurrentSession();
 		return book;
 	}
 
-	public void delete(String id) {
-		libroPedidoDao.openCurrentSessionwithTransaction();
-		LibroPedido book = libroPedidoDao.findById(id);
+	public void delete(Integer id) {
+		libroPedidoDao.getSesion().openCurrentSessionwithTransaction();
+		Libropedido book = libroPedidoDao.findById(id);
 		libroPedidoDao.delete(book);
-		libroPedidoDao.closeCurrentSessionwithTransaction();
+		libroPedidoDao.getSesion().closeCurrentSessionwithTransaction();
 	}
 
-	public List<LibroPedido> findAll() {
-		libroPedidoDao.openCurrentSession();
-		List<LibroPedido> books = libroPedidoDao.findAll();
-		libroPedidoDao.closeCurrentSession();
+	public List<Libropedido> findAll() {
+		libroPedidoDao.getSesion().openCurrentSession();
+		List<Libropedido> books = libroPedidoDao.findAll();
+		libroPedidoDao.getSesion().closeCurrentSession();
 		return books;
 	}
 
 	public void deleteAll() {
-		libroPedidoDao.openCurrentSessionwithTransaction();
+		libroPedidoDao.getSesion().openCurrentSessionwithTransaction();
 		libroPedidoDao.deleteAll();
-		libroPedidoDao.closeCurrentSessionwithTransaction();
+		libroPedidoDao.getSesion().closeCurrentSessionwithTransaction();
 	}
 
 	public ImplLibroPedidoDAO libroPedidoDao() {

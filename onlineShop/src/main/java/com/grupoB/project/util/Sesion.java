@@ -5,6 +5,8 @@ import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
+import javax.persistence.NamedNativeQueries;
+import javax.persistence.NamedNativeQuery;
 
 public class Sesion {
 	private Session currentSession;
@@ -26,6 +28,8 @@ public class Sesion {
 		return currentSession;
 	}
 
+	
+	
 	public void closeCurrentSession() {
 		currentSession.close();
 	}
@@ -36,7 +40,8 @@ public class Sesion {
 	}
 
 	// Metodo principal de arranque de Hibernate
-	private static SessionFactory getSessionFactory() {
+	public static SessionFactory getSessionFactory() 
+	{
 		Configuration configuration = new Configuration().configure();
 		StandardServiceRegistryBuilder builder = new StandardServiceRegistryBuilder()
 				.applySettings(configuration.getProperties());
