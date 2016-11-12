@@ -5,9 +5,20 @@
   	<servlet-name>FrontServlet</servlet-name>
   	<servlet-class>com.grupoB.project.control.FrontServlet</servlet-class>
   </servlet>
+  <servlet>
+  	<description>
+  	</description>
+  	<display-name>controladorMartaCategoria</display-name>
+  	<servlet-name>controladorMartaCategoria</servlet-name>
+  	<servlet-class>com.grupoB.project.control.controladorMartaCategoria</servlet-class>
+  </servlet>
   <servlet-mapping>
   	<servlet-name>FrontServlet</servlet-name>
   	<url-pattern>/FrontServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>controladorMartaCategoria</servlet-name>
+  	<url-pattern>/controladorMartaCategoria</url-pattern>
   </servlet-mapping>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
