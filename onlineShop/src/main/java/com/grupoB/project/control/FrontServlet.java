@@ -31,11 +31,8 @@ public class FrontServlet extends HttpServlet
 
 		super.init();
 
-		//Coloacar el mapeado de los servidores y la insancia del controlador
-		//tantos como controladores tenga...
-		//controllers.put("/newVisitor.do", new NewVisitorController());
-		//controllers.put("/searchVisitor.do", new SearchVisitorController());
-		//controllers.put("/logout.do", new LogoutController());
+		//Colocar el mapeado de los servidores y la insancia del controlador
+		controllers.put("/categoriasctrl", new ImplCategoriaControlador());
 	}
 	
     
