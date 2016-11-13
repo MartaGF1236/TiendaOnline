@@ -18,22 +18,22 @@
 		<div id="body">
 			<div class="inner">
                  <div class="leftbox">
-					<h3><b>Mortadelo y FilemÃ³n: Â¡Elecciones!</b></h3>
+					<h3><b>Mortadelo y Filemón: ¡Elecciones!</b></h3>
 					<img src="images/comic_mortadelofilemon.jpg" width="100" height="134" alt="photo 1" class="left" />
-					<p>Autor:<b> Francisco IbÃ¡Ã±ez Talavera</b> </p>
+					<p>Autor:<b> Francisco Ibáñez Talavera</b> </p>
                      <p>ISBN: 8466657932; 9788466657938</p>
                     <p>Precio:<b> 12,90 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>El fantasma de la Ã“pera</b></h3>
+					<h3><b>El fantasma de la ó“pera</b></h3>
 					<img src="images/comic_fantasmadelaopera.jpg" width="100" height="139" alt="photo 6" class="left" />
                     <p>Autor: <b>Christophe Gaultier</b></p>
                     <p>ISBN: 978-84-15979-22-7</p>
 					<p>Precio: <b>21,11 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -44,7 +44,7 @@
 					<p>Autor: <b>Terry Dodson; Kevin Patrck Smith</b></p>
                     <p>ISBN: 9788498853803</p>
                     <p>Precio: <b>16,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -54,28 +54,28 @@
 					<p>Autor:<b> Mark Collins Jenkins</b></p>
                     <p>ISBN: 8482985698; 9788482985695</p>
                     <p>Precio: <b>35,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
 				<div class="clear br"></div>
 				<div class="leftbox">
-					<h3><b>X-Men: Primera generaciÃ³n. Â¡Todos a clase!</b></h3>
+					<h3><b>X-Men: Primera generación. ¡Todos a clase!</b></h3>
 					<img src="images/comic_xmen.jpg" width="102" height="143" alt="photo 3" class="left" />
 					<p>Autor:<b> Parker; Jeff; Cruz; Roger</b></p>
                     <p>ISBN: 9788498856996</p>
                     <p>Precio:<b> 11,85 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>Magos del humor num. 161: SuperLÃ³pez: El gran Desahuciador</b></h3>
+					<h3><b>Magos del humor num. 161: SuperLópez: El gran Desahuciador</b></h3>
 					<img src="images/libro_elalquimista.jpg" width="100" height="151" alt="photo 6" class="left" />
 					<p>Autor: <b>Jan</b></p>
                     <p>ISBN: 9788466653145</p>
                     <p>Precio: <b>17,90 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
                 

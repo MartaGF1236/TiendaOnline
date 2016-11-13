@@ -24,17 +24,17 @@
 					<p>Autor:<b> VV.AA. (Varios autores)</b> </p>
                      <p>ISBN: 9780194519915</p>
                     <p>Precio:<b> 41,90 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>GeografÃ­a. Prueba especÃ­fica. Acceso Universidad para mayores de 25 aÃ±os</b> </h3>
+					<h3><b>Geografía. Prueba específica. Acceso Universidad para mayores de 25 años</b> </h3>
 					<img src="images/opos_geografia.jpg" width="110" height="140" alt="photo 4" class="left" />
 					<p>Autor: <b>VV.AA. (varios autores)</b>.</p>
                     <p>ISBN: 9788467668445</p>
                     <p>Precio: <b>32,08 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -45,38 +45,38 @@
 					<p>Autor: <b>VV.AA. (varios autores)</b></p>
                     <p>ISBN: 9788468170824</p>
                     <p>Precio: <b>38,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>MatemÃ¡ticas, 1Âº Bachillerato</b></h3>
+					<h3><b>Matemáticas, 1º Bachillerato</b></h3>
 					<img src="images/opos_matematicas.jpg" width="111" height="143" alt="photo 5" class="left" />
-					<p>Autor:<b> E. Santaella Fdez.; R. Colera CaÃ±as; M. J. Oliveira Glez.; J. Colera JimÃ©nez</b></p>
+					<p>Autor:<b> E. Santaella Fdez.; R. Colera Cañas; M. J. Oliveira Glez.; J. Colera JimÃ©nez</b></p>
                     <p>ISBN: 8467826886; 9788467826883</p>
                     <p>Precio: <b>36,55 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
 				<div class="clear br"></div>
 				<div class="leftbox">
-					<h3><b>PolicÃ­a Nacional. Escala BÃ¡sica. OrtografÃ­a, PsicotÃ©cnicos y entrevista personal</b></h3>
+					<h3><b>Policía Nacional. Escala Básica. Ortografía, Psicotécnicos y entrevista personal</b></h3>
 					<img src="images/opos_escalabasicacnp.jpg" width="100" height="133" alt="photo 3" class="left" />
 					<p>Autor:<b> VV.AA. (varios autores)</b></p>
                     <p>ISBN: 8468168378; 9788468168371</p>
                     <p>Precio:<b> 45,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>Cuaderno de verano. Lengua castellana 4Âº ESO</b></h3>
+					<h3><b>Cuaderno de verano. Lengua castellana 4º ESO</b></h3>
 					<img src="images/opos_lengua.jpg" width="100" height="141" alt="photo 6" class="left" />
 					<p>Autor: <b>VV.AA. (varios autores)</b></p>
                     <p>ISBN: 8498043883; 9788498043884</p>
                     <p>Precio: <b>13,50 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
                 

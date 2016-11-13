@@ -24,7 +24,7 @@
 					<p>Autor:<b> Isabel Llano Pah√≠no</b> </p>
                      <p>ISBN: 8441537186; 978844153718</p>
                     <p>Precio:<b> 15,16 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -34,18 +34,18 @@
 					<p>Autor: <b>Dan Marshall</b>.</p>
                     <p>ISBN: 8490603650; 9788490603659</p>
                     <p>Precio: <b>15,90 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
 				<div class="clear br"></div>
 				<div class="leftbox">
-					<h3><b>Gu√≠a tur√≠stica de Espa√±a 2013</b></h3>
+					<h3><b>GuÌa turÌstica de EspaÒa 2013</b></h3>
 					<img src="images/turismo_guiaespa%C3%B1a.jpg" width="100" height="150" alt="photo 2" class="left" />
-					<p>Autor: <b>√Ångel Ingelmo; Jes√∫s Garc√≠a; Paloma Ledrado; Manuel Monreal; Enrique Yuste; Daniel Cabrera; Luis Mazarrasa</b></p>
+					<p>Autor: <b>√Ångel Ingelmo; Jes˙s GarcÌa; Paloma Ledrado; Manuel Monreal; Enrique Yuste; Daniel Cabrera; Luis Mazarrasa</b></p>
                     <p>ISBN:8480239433; 9788480239431</p>
                     <p>Precio: <b>19,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -55,7 +55,7 @@
 					<p>Autor:<b> Diego Simeone</b></p>
                     <p>ISBN: 8448022734; 9788448022730</p>
                     <p>Precio: <b>16,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -66,17 +66,17 @@
 					<p>Autor:<b> Shando Varda</b></p>
                     <p>ISBN: 8495973561; 9788495973566</p>
                     <p>Precio:<b> 10,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>365 enigmas y juegos de l√≥gica</b></h3>
+					<h3><b>365 enigmas y juegos de lÛgica</b></h3>
 					<img src="images/ocio_enigmasyjuegos.jpg" width="100" height="150" alt="photo 6" class="left" />
-					<p>Autor: <b>Miquel Cap√≥ Dolz</b></p>
+					<p>Autor: <b>Miquel CapÈ Dolz</b></p>
                     <p>ISBN: 8484412261; 9788484412267</p>
                     <p>Precio: <b>13,95 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
                 

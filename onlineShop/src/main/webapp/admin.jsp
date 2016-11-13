@@ -29,9 +29,10 @@
     <br/>
             <h2> Usuarios</h2>
             <br/>
-                      <a class="admin" href="ModificarUsuario.jsp">Modificar usuario</a>
-                      <br/>
-            <a class="admin" href="BajaCliente.jsp">Eliminar usuario</a>
+             
+             <input class="admin" href="ModificarUsuario.jsp" type="image" src="images/boton_modificar_usuario.jpg" />
+           <br/>
+            <input class="admin" href="BajaCliente.jsp" type="image" src="images/boton_eliminar_usuario.jpg" />
                 </div>
                 
                 
@@ -41,11 +42,11 @@
             <br/>
             <h2>Libros</h2>
             <br/>
-            <a class="admin" href="AltaLibro.jsp">Alta libro</a>
+            <input class="admin" href="AltaLibro.jsp" type="image" src="images/boton_alta_libro.jpg" />
             <br/>
-            <a class="admin" href="ModificarLibro.jsp">Modificar libro</a>
+          <input class="admin" href="ModificarUsuario.jsp" type="image" src="images/boton_modificar_libro.jpg" />
              <br/>
-            <a class="admin" href="BajaLibro.jsp">Eliminar libro</a>
+         <input class="admin" href="BajaLibro.jsp" type="image" src="images/boton_eliminar_libro.jpg" />
    
    </div>
    
@@ -58,11 +59,11 @@
             <br/>
             <h2>Categorias</h2>
             <br/>
-            <a class="admin" href="AltaCategoria.jsp">Alta categoria</a>
+     <input class="admin" href="AltaCategoria.jsp" type="image" src="images/boton_alta_categoria.jpg" />
             <br/>
-            <a class="admin" href="ModificarCategoria.jsp">Modificar categoria</a>
+          <input class="admin" href="ModificarCategoria.jsp" type="image" src="images/boton_modificar_categoria.jpg" />
             <br/>
-            <a class="admin" href="BajaCategoria.jsp">Eliminar categoria</a>
+   <input class="admin" href="BajaCategoria.jsp" type="image" src="images/boton_eliminar_categoria.jpg" />
             <br/>
             
             

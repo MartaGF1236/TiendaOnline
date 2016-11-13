@@ -19,12 +19,12 @@
 		<div id="body">
 			<div class="inner">
                  <div class="leftbox">
-					<h3><b>Au id√≤! Catala per adults</b></h3>
+					<h3><b>Au idÈ! Catala per adults</b></h3>
 					<img src="images/idiomas_catala.jpg" width="103" height="142" alt="photo 1" class="left" />
-					<p>Autor:<b>Salvador Comelles Garc√≠a</b> </p>
+					<p>Autor:<b>Salvador Comelles GarcÌa</b> </p>
                      <p>ISBN: 8448930967; 9788448930967</p>
                     <p>Precio:<b> 32,30 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -34,28 +34,28 @@
 					<p>Autor: <b>Brian Brennan; Rosa Plana</b>.</p>
                     <p>ISBN:  8484437590; 9788484437598</p>
                     <p>Precio: <b>12,43 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
 				<div class="clear br"></div>
 				<div class="leftbox">
-					<h3><b>Alem√°n para dummies</b></h3>
+					<h3><b>Alem·n para dummies</b></h3>
 					<img src="images/idiomas_aleman.jpg" width="103" height="143" alt="photo 2" class="left" />
 					<p>Autor: <b>Anne Fox; Paulina Christensen</b></p>
                     <p>ISBN: 8432903035; 9788432903038</p>
                     <p>Precio: <b>19,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>Vovabulario Espa√±ol-Holand√©s. 3000 palabras m√°s usadas</b></h3>
+					<h3><b>Vocabulario EspaÒol-HolandÈs. 3000 palabras m·s usadas</b></h3>
 					<img src="images/idiomas_holandes.jpg" width="100" height="143" alt="photo 5" class="left" />
 					<p>Autor:<b> Andrey Taranov</b></p>
                     <p>ISBN: 1783140577; 9781783140572</p>
                     <p>Precio: <b>9,35 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -66,7 +66,7 @@
 					<p>Autor:<b> Jean Baptiste Coyos; Jasone Salaberria</b></p>
                     <p>ISBN: 9788432900730</p>
                     <p>Precio:<b> 9,99 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -76,7 +76,7 @@
 					<p>Autor: <b>Pedro Ceinos Arcones</b></p>
                     <p>ISBN: 9788478131730</p>
                     <p>Precio: <b>24,30 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
                 

@@ -17,7 +17,7 @@
 
 <div id="body">
             <div id="body header">
-                <h1 id="titulo">RegÃ­strate</h1>
+                <h1 id="titulo">Regístrate</h1>
             </div>
             <div id="main">
                 <form action="?" method="post">
@@ -47,11 +47,11 @@
                             <input type="text" size="5" class="formulario" name="provincia" />
                         </p>  
                         <p>
-                            <label for="pais">PaÃ­s:</label>
+                            <label for="pais">País:</label>
                             <input type="text" size="5" class="formulario" name="pais" />
                         </p>  
                         <p>
-                            <label for="codigoPostal">CÃ³digo Postal:</label>
+                            <label for="codigoPostal">Código Postal:</label>
                             <input type="number" size="5" class="formulario" name="codigoPostal" />
                         </p>  
                         <p>
@@ -59,11 +59,11 @@
                             <input type="email" size="5" class="formulario" name="email" />
                         </p> 
                            <p>
-                            <label for="telefono1"> Introduzca un primer nÃºmero de contacto:</label>
+                            <label for="telefono1"> Introduzca un primer número de contacto:</label>
                             <input type="number" size="5" class="formulario" name="telefono1" />
                         </p>
                         <p>
-                            <label for="telefono2">Introduzca un segundo nÃºmero de contacto:</label>
+                            <label for="telefono2">Introduzca un segundo número de contacto:</label>
                             <input type="number" size="5" class="formulario" name="telefono2" />
                         </p>
                         <p>
@@ -72,12 +72,12 @@
                         </p>
                         
                        <p>
-                            <label for="password">Indique una contraseÃ±a:</label>
+                            <label for="password">Indique una contraseña:</label>
                             <input type="password" size="5" class="formulario" name="password" />
                         </p>
                         <p>
                            <input type="image" id="boton_avanzada" src="images/boton_darme_alta.jpg" /> 
-                             <!--<input type="submit" value="Buscar" id="buscar_avanzada"/> -->
+                            
                         </p>
                        <!-- <p>
                             <input type="submit" value="Darme de alta como cliente" />

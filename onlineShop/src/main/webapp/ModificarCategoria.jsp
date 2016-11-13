@@ -35,9 +35,11 @@
                             <label for="idLibro"> Código del libro:</label>
                             <input type="number" size="5" class="formulario" name="idLibro" />
                         </p> 
-                         
+                          <p>
+                           <input type="image" id="boton_avanzada" src="images/boton_modificar_categoria.jpg" /> 
+                            
+                        </p>
                     </fieldset>
-                  <!--   <input type="hidden" name="operacion" value="modificacion"> -->
                 </form>
             </div>
         </div>

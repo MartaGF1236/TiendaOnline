@@ -16,7 +16,7 @@
 
 <div id="body">
     <div id="body header">
-        <h1 id="titulo">AdministraciÃ³n</h1>
+        <h1 id="titulo">Administración</h1>
         </div>
             
         <div id="main">

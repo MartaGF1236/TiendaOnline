@@ -23,10 +23,10 @@
 					<p>Autor: <b>Paulo Coelho</b></p>
                     <p>ISBN: 9788408130451</p>
                     <p>Precio: <b>11,60 EUR</b>.</p>
-                    <p>EdiciÃ³n: <b>2</b></p>
-                    <p>Fecha PublicaciÃ³n: <b>30/10/2015</b></p>
-                    <p>DescripciÃ³n: <b>blablablalabla</b></p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+                    <p>Edición: <b>2</b></p>
+                    <p>Fecha Publicación: <b>30/10/2015</b></p>
+                    <p>Descripción: <b>blablablalabla</b></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 			
 

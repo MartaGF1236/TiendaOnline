@@ -24,7 +24,7 @@
 					<p>Autor:<b> Paula Howkins</b> </p>
                      <p>ISBN: 978-17-8416-110-1</p>
                     <p>Precio:<b> 9,95 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -34,7 +34,7 @@
 					<p>Autor: <b>Mark Haddon</b>.</p>
                     <p>ISBN: 978-17-8295-346-3</p>
                     <p>Precio: <b>10,30 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -45,7 +45,7 @@
 					<p>Autor: <b>Richard Castle</b></p>
                     <p>ISBN: 1401323820; 9781401323820</p>
                     <p>Precio: <b>19,12 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -55,7 +55,7 @@
 					<p>Autor:<b> Maurice Leblanc</b></p>
                     <p>ISBN: 9782253002826</p>
                     <p>Precio: <b>4,70 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -66,7 +66,7 @@
 					<p>Autor:<b> Margaret Mazzantini</b></p>
                     <p>ISBN: 9788804599425</p>
                     <p>Precio:<b> 17,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -76,7 +76,7 @@
 					<p>Autor: <b>Umberto Eco</b></p>
                     <p>ISBN: 9788845278655</p>
                     <p>Precio: <b>14,56 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
                 

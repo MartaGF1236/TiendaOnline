@@ -21,7 +21,7 @@
                 <h1 id="titulo">Eliminar categoría</h1>
             </div>
             <div id="main">
-                <form action="categoriasctrl?operacion=baja" method="post">
+                 <form action="categoriasctrl?operacion=baja" method="post">
                     <fieldset>
                        
                         <p>
@@ -29,9 +29,11 @@
                             <input type="number" size="5" class="formulario" name="idCategoria" />
                         </p>  
                        
-                         
-                                      </fieldset>
-                                    <!--  <input type="hidden" name="operacion" value="baja"> -->
+                          <p>
+                           <input type="image" id="boton_avanzada" src="images/boton_eliminar_categoria.jpg" /> 
+                            
+                        </p>
+                    </fieldset>
                 </form>
             </div>
         </div>

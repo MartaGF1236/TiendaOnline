@@ -75,13 +75,11 @@
                             <label for="password">Indique una contraseña:</label>
                             <input type="password" size="5" class="formulario" name="password" />
                         </p>
-                        <p>
-                           <input type="image" id="boton_avanzada" src="images/boton_darme_alta.jpg" /> 
-                             <!--<input type="submit" value="Buscar" id="buscar_avanzada"/> -->
+                         <p>
+                           <input type="image" id="boton_avanzada" src="images/boton_modificar_usuario.jpg" /> 
+                            
                         </p>
-                       <!-- <p>
-                            <input type="submit" value="Darme de alta como cliente" />
-                        </p>-->
+                      
                     </fieldset>
                 </form>
             </div>

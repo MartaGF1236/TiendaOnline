@@ -24,7 +24,7 @@
 					<p>Autor:<b> VV.AA. (Varios autores)</b> </p>
                      <p>ISBN: 8448022629; 9788448022624</p>
                     <p>Precio:<b> 12,90 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>A�adir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -34,7 +34,7 @@
 					<p>Autor: <b>VV.AA. (varios autores)</b>.</p>
                     <p>ISBN: 8416279586; 9788416279586</p>
                     <p>Precio: <b>35,08 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>A�adir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -45,7 +45,7 @@
 					<p>Autor: <b>VV.AA. (varios autores)</b></p>
                     <p>ISBN: 8499284280; 9788499284286</p>
                     <p>Precio: <b>19,95 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>A�adir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -55,7 +55,7 @@
 					<p>Autor:<b> Anne Geddes</b></p>
                     <p>ISBN: 8440698615; 9788440698612</p>
                     <p>Precio: <b>9,46 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>A�adir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -66,17 +66,17 @@
 					<p>Autor:<b> Isabel Llano Pahíno</b></p>
                     <p>ISBN: 8427037341; 9788427037342</p>
                     <p>Precio:<b> 18,95 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>A�adir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
 					<h3><b>La vuelta a tu perro en 30 puntos</b></h3>
 					<img src="images/opos_lengua.jpg" width="100" height="153" alt="photo 6" class="left" />
-					<p>Autor: <b>Alejandro Lorente; Vicente Calderón</b></p>
+					<p>Autor: <b>Alejandro Lorente; Vicente Calder�n</b></p>
                     <p>ISBN: 8441435480; 9788441435483</p>
                     <p>Precio: <b>15,50 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>A�adir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
                 

@@ -19,8 +19,8 @@
             <div id="body header">
                 <h1 id="titulo">Alta categoría</h1>
             </div>
-            <div id="main"> 
-                <form action="categoriasctrl?operacion=alta" method="post">
+            <div id="main">
+               <form action="categoriasctrl?operacion=alta" method="post">
                     <fieldset>
                         <p>
                             <label for="nombre"> Nombre:</label>
@@ -34,9 +34,11 @@
                             <label for="idLibro"> Código del libro:</label>
                             <input type="number" size="5" class="formulario" name="idLibro" />
                         </p> 
-                         
+                          <p>
+                           <input type="image" id="boton_avanzada" src="images/boton_alta_categoria.jpg" /> 
+                            
+                        </p>
                     </fieldset>
-                 <!--     <input type="hidden" name="operacion" value="alta"> -->
                 </form>
             </div>
         </div>

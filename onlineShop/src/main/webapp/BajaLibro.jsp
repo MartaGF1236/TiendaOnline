@@ -28,7 +28,10 @@
                             <label for="idLibro">Código:</label>
                             <input type="number" size="5" class="formulario" name="idLibro" />
                         </p>  
-                       
+                        <p>
+                           <input type="image" id="boton_avanzada" src="images/boton_eliminar_libro.jpg" /> 
+                            
+                        </p>
                          
                     </fieldset>
                 </form>

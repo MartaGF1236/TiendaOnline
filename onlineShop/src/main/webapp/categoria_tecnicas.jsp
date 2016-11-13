@@ -34,49 +34,49 @@
 					<p>Autor: <b>Walter Lewin</b>.</p>
                     <p>ISBN: 9788490320594</p>
                     <p>Precio: <b>10,08 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
 				<div class="clear br"></div>
 				<div class="leftbox">
-					<h3><b>Dibujo t√©cnico</b></h3>
+					<h3><b>Dibujo tÈcnico</b></h3>
 					<img src="images/cctecnicas_dibujo.jpg" width="100" height="142" alt="photo 2" class="left" />
 					<p>Autor: <b>Basilio Ramos Barbero</b></p>
                     <p>ISBN:  9788481439182</p>
                     <p>Precio: <b>40,50 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>Introducci√≥n a la Ingenier√≠a Aeroespacial</b></h3>
+					<h3><b>IntroducciÛn a la IngenierÌa Aeroespacial</b></h3>
 					<img src="images/cctecnicas_ingenieria.jpg" width="104" height="142" alt="photo 5" class="left" />
-					<p>Autor:<b> Sebastian Franchini; √ìscar L√≥pez Garc√≠a</b></p>
+					<p>Autor:<b> Sebastian Franchini; ”ìscar LÛpez GarcÌa</b></p>
                     <p>ISBN: 9788492812905</p>
                     <p>Precio: <b>40,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
 				<div class="clear br"></div>
 				<div class="leftbox">
-					<h3><b>Ingenier√≠a industrial: m√©todos, est√°ndares y dise√±o del trabajo</b></h3>
+					<h3><b>IngenierÌa industrial: mÈtodos, est·ndares y diseÒo del trabajo</b></h3>
 					<img src="images/cctecnicas_ingenieriaind.jpg" width="107" height="137" alt="photo 3" class="left" />
 					<p>Autor:<b> Benjamin Niebel; Andris Freivalds</b></p>
                     <p>ISBN: 9789701505977</p>
                     <p>Precio:<b> 35,80 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>La Qu√≠mica en la vida cotidiana</b></h3>
+					<h3><b>La QuÌmica en la vida cotidiana</b></h3>
 					<img src="images/cctecnicas_quimica.jpg" width="100" height="140" alt="photo 6" class="left" />
 					<p>Autor: <b>VV.AA. (varios autores)</b></p>
                     <p>ISBN: 9788436250169</p>
                     <p>Precio: <b>16,67 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
                 

@@ -67,9 +67,9 @@
                      
                     
  
-                        <p>
-                           <input type="image" id="boton_avanzada" src="images/boton_buscar2_reducida.jpg" /> 
-                             <!--<input type="submit" value="Buscar" id="buscar_avanzada"/> -->
+                         <p>
+                           <input type="image" id="boton_avanzada" src="images/boton_alta_libro.jpg" /> 
+                            
                         </p>
                     </fieldset>
                 </form>

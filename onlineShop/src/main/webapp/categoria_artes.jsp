@@ -24,7 +24,7 @@
                     <p>Autor:<b> J. K. Rowling</b></p>
                     <p>ISBN: 9788498387544</p>
                     <p>Precio:<b> 18,05 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -34,7 +34,7 @@
 					<p>Autor: <b>Antonio Machado</b></p>
                     <p>ISBN: 978-84-376-0866-2</p>
                     <p>Precio: <b>8,08 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -45,7 +45,7 @@
 					<p>Autor: <b>Laura Cooper</b></p>
                     <p>ISBN: 9788441416451</p>
                     <p>Precio: <b>5,95 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -55,28 +55,28 @@
                     <p>Autor: <b>Gilles Mouellic</b></p>
                     <p>ISBN: 9788449325687</p>
 					<p>Precio: <b>11,70 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
 				<div class="clear br"></div>
 				<div class="leftbox">
-					<h3><b>Paul Newman: El galÃ¡n indomable</b></h3>
+					<h3><b>Paul Newman: El galán indomable</b></h3>
 					<img src="images/cine_paulnewman.jpg" width="100" height="139" alt="photo 3" class="left" />
                     <p>Autor: <b>Javier Cortijo</b></p>
                     <p>ISBN: 978-84-95602-08-4</p>
 					<p>Precio: <b>31,25 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>101 ejercicios de Danza contemporÃ¡nea para niÃ±os y jÃ³venes</b></h3>
+					<h3><b>101 ejercicios de Danza contemporánea para niños y jóvenes</b></h3>
 					<img src="images/danza_danza.jpg" width="100" height="137" alt="photo 6" class="left" />
                     <p>Autor: <b>Ainhoa Sarmiento</b></p>
                     <p>ISBN:  978-84-79029-86-9</p>
 					<p>Precio: <b>25 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>AÃ±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>Añadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
                 

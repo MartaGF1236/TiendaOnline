@@ -11,7 +11,7 @@
 <div id="wrapper">
 	<div id="inner">
        
-    <%@ include file="cabecera.jsp"%> <!--Diapositiva 136-138-->
+    <%@ include file="cabecera.jsp"%> 
 <!-- / header -->
     <%@ include file="panel_lateral.jsp"%>
 <!--Panel lateral-->
@@ -24,9 +24,9 @@
             <div id="main">
                 <form action="resulta_busqueda.jsp" method="post">
                     <fieldset>
-                        <legend id=titulo>BÃºsqueda avanzada</legend>
+                        <legend id=titulo>Búsqueda avanzada</legend>
                         <p>
-                            <label for="titulo" class> TÃ­tulo:</label>
+                            <label for="titulo" class> Título:</label>
                             <input type="text" class="formulario" name="titulo" />
                         </p>
                         <p>
@@ -38,7 +38,7 @@
                             <input type="number" size="5" class="formulario" name="isbn" />
                         </p> 
                            <p>
-                       Precio mÃ¡ximo que quieres gastar(en euros):
+                       Precio máximo que quieres gastar(en euros):
                             <script>
                                     function evalSlider()
                                         {

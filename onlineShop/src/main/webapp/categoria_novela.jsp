@@ -19,12 +19,12 @@
 		<div id="body">
 			<div class="inner">
                  <div class="leftbox">
-					<h3><b>Harry Potter y la Orden del F√©nix</b></h3>
+					<h3><b>Harry Potter y la Orden del FÈnix</b></h3>
 					<img src="images/libro_harrypotterylaordendelfenix.jpg" width="105" height="164" alt="photo 1" class="left" />
 					<p>Autor:<b> J. K. Rowling</b> </p>
                      <p>ISBN: 978-84-9838-362-1</p>
                     <p>Precio:<b> 23,75 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -34,28 +34,28 @@
 					<p>Autor: <b>Katherine Neville</b>.</p>
                     <p>ISBN: 978-84-01-33645-4</p>
                     <p>Precio: <b>8,45 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
 				<div class="clear br"></div>
 				<div class="leftbox">
-					<h3><b>El √∫ltimo Cat√≥n</b></h3>
+					<h3><b>El Ìltimo Cat·n</b></h3>
 					<img src="images/libro_elultimocaton.jpg" width="100" height="151" alt="photo 2" class="left" />
 					<p>Autor: <b>Matilde Asensi</b></p>
                     <p>ISBN: 9788498387544</p>
                     <p>Precio: <b>19,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
 				<div class="rightbox">
-					<h3><b>El C√≥digo de los Colegas: C√≥mo Conoc√≠ a Vuestra Madre</b></h3>
+					<h3><b>El CÛdigo de los Colegas: CÛmo ConocÌ a Vuestra Madre</b></h3>
 					<img src="images/libro-el-codigo-de-los-colegas.jpg" width="100" height="152" alt="photo 5" class="left" />
 					<p>Autor:<b> Barney Stinson; Matt Khun</b></p>
                     <p>ISBN: 8448008707; 9788448008703</p>
                     <p>Precio: <b>9,66 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / rightbox -->
@@ -66,7 +66,7 @@
 					<p>Autor:<b> E. L. James</b></p>
                     <p>ISBN: 978-84-253-4885-3</p>
                     <p>Precio:<b> 17,00 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
 <!-- / leftbox -->
@@ -76,7 +76,7 @@
 					<p>Autor: <b>Paulo Coelho</b></p>
                     <p>ISBN: 9788408130451</p>
                     <p>Precio: <b>11,60 EUR</b>.</p>
-					<p class="readmore"><a href="#"><b>A√±adir al carrito</b></a></p>
+					<p class="readmore"><a href="#"><b>AÒadir al carrito</b></a></p>
 					<div class="clear"></div>
 				</div>
                 
