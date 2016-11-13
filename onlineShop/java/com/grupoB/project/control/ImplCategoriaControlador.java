@@ -52,8 +52,8 @@ public class ImplCategoriaControlador implements IControlador
             e.printStackTrace();
             System.out.println("----------------------------------------------------------");
         }   
-
-		return ("/listado.jsp");
+//Ponía return ("/listado.jsp");
+		return ("listado.jsp");
 	}
 	
 	public Categoria recogerDatos(HttpServletRequest request) 

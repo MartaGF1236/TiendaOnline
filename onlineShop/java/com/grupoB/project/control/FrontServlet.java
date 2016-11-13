@@ -11,7 +11,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/ImplCategoriaControlador")
+
+
+@WebServlet("/FrontServlet")
 
 
 //El �nico servlet de la aplicaci�n es el FrontServlet, que se encarga de recoger 
@@ -35,7 +37,7 @@ public class FrontServlet extends HttpServlet
 		super.init();
 
 		//Colocar el mapeado de los servidores y la insancia del controlador
-		controllers.put("/categoriasctrl", new ImplCategoriaControlador());
+		controllers.put("/categoriasctrl.do", new ImplCategoriaControlador());
 		//coloca el objeto que implementa la interfaz IControlador
 	}
 	

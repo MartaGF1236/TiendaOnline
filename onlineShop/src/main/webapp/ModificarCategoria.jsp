@@ -21,7 +21,7 @@
                 <h1 id="titulo">Modificar categoría</h1>
             </div>
             <div id="main">
-                <form action="ImplCategoriaControlador" method="post">
+                <form action="categoriasctrl.do"method="post">
                     <fieldset>
                         <p>
                             <label for="nombre"> Nombre:</label>

@@ -10,7 +10,7 @@
   
   <servlet-mapping>
   	<servlet-name>FrontServlet</servlet-name>
-  	<url-pattern>/FrontServlet</url-pattern>
+  	<url-pattern>*.dot</url-pattern>
   </servlet-mapping>
   
   <welcome-file-list>
