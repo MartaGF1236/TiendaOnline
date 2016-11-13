@@ -1,3 +1,31 @@
+#todo {
+	margin:auto;
+   width:450px;  
+}
+
+#usuario{
+   width:150px;
+   float: left;  
+   
+}   
+.admin{
+	color: #8A4B08;
+	font-size: 12px;
+}   
+
+#libros{  	
+   width:150px;  
+    float: left; 
+    color: #8A4B08;
+}
+
+
+#categorias{
+ width:150px; 
+ float: left;  
+ color: #8A4B08;
+}
+
 .formulario{
     background:#F3E2A9;
 }
