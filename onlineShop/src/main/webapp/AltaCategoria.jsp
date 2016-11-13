@@ -19,8 +19,8 @@
             <div id="body header">
                 <h1 id="titulo">Alta categoría</h1>
             </div>
-            <div id="main">
-                <form action="categoriasctrl.do" method="post">
+            <div id="main"> 
+                <form action="categoriasctrl?operacion=alta" method="post">
                     <fieldset>
                         <p>
                             <label for="nombre"> Nombre:</label>
@@ -36,7 +36,7 @@
                         </p> 
                          
                     </fieldset>
-                     <input type="hidden" name="operacion" value="alta">
+                 <!--     <input type="hidden" name="operacion" value="alta"> -->
                 </form>
             </div>
         </div>

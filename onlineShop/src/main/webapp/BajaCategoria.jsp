@@ -21,7 +21,7 @@
                 <h1 id="titulo">Eliminar categoría</h1>
             </div>
             <div id="main">
-                <form action="categoriasctrl.do" method="post">
+                <form action="categoriasctrl?operacion=baja" method="post">
                     <fieldset>
                        
                         <p>
@@ -31,7 +31,7 @@
                        
                          
                                       </fieldset>
-                                      <input type="hidden" name="operacion" value="baja">
+                                    <!--  <input type="hidden" name="operacion" value="baja"> -->
                 </form>
             </div>
         </div>
