@@ -20,7 +20,7 @@
                 <h1 id="titulo">Alta categoría</h1>
             </div>
             <div id="main">
-                <form action="?" method="post">
+                <form action="ImplCategoriaControlador" method="post">
                     <fieldset>
                         <p>
                             <label for="nombre"> Nombre:</label>
@@ -36,6 +36,7 @@
                         </p> 
                          
                     </fieldset>
+                     <input type="hidden" name="operacion" value="alta">
                 </form>
             </div>
         </div>

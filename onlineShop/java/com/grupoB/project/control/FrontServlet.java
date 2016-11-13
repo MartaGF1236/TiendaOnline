@@ -6,13 +6,16 @@ import java.util.Map;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+@WebServlet("/ImplCategoriaControlador")
 
-//El único servlet de la aplicación es el FrontServlet, que se encarga de recoger 
-//la acción realizada por el usuario y pasar el control al Controller adecuado.
+
+//El ï¿½nico servlet de la aplicaciï¿½n es el FrontServlet, que se encarga de recoger 
+//la acciï¿½n realizada por el usuario y pasar el control al Controller adecuado.
 public class FrontServlet extends HttpServlet 
 {
 	private static final long serialVersionUID = 1L;
@@ -33,6 +36,7 @@ public class FrontServlet extends HttpServlet
 
 		//Colocar el mapeado de los servidores y la insancia del controlador
 		controllers.put("/categoriasctrl", new ImplCategoriaControlador());
+		//coloca el objeto que implementa la interfaz IControlador
 	}
 	
     
@@ -40,9 +44,14 @@ public class FrontServlet extends HttpServlet
     private void doProcess(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException 
     {
-		// Comprueba la accion a realizar
+		// Comprueba la accion a realizar.
+    	//getServletPath() devuelve lo que se escribe en el jsp en action.
+    	//Returns: a String containing the name or path of the servlet being called, as specified in the request URL, decoded, or an empty string if the servlet used to process the request is matched using the "/*" pattern.
+        //action va a ser=ImplCategoriaControlador
 		String action = request.getServletPath();
 		// Ejecuta el controlador a partir de la accion
+		//process es un mÃ©todo de ImplCategoriaControlador, no del Map ni del FrontServlet
+		//process devuelve ("/listado.jsp")(estÃ¡ sin hacer)
 		String view = controllers.get(action).process(request, response);
 		// Crea la vista que viene a continuacion
 		RequestDispatcher dispatcher = request.getRequestDispatcher(view);
